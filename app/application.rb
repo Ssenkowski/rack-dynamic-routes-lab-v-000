@@ -1,3 +1,3 @@
 class Application
 
-  @@items = [@name, @price]
+  @@items = []
